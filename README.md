@@ -10,5 +10,5 @@ Processing IDE:
 Python:
 - simulator controller
 - drone_viewer
-#Wiring diagram
+# Wiring diagram
 https://app.cirkitdesigner.com/project/63ebfeb6-472e-47ce-96d3-087b190fd500
