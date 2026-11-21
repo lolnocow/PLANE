@@ -1,13 +1,12 @@
 # The Project
 DIY rc plane 
-# Tech Stack
-Arduino IDE:
+# Arduino IDE:
 - controller
 - plane
 - simulator controller
-Processing IDE:
+# Processing IDE:
 - monitor
-Python:
+# Python:
 - simulator controller
 - drone_viewer
 # Wiring diagram
